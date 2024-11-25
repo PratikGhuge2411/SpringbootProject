@@ -24,6 +24,7 @@ import com.example.demo.Service.MyService;
 public class MyController {
 	
 @Autowired
+
 MyService service;
 
 
